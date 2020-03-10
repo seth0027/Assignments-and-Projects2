@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Hangman
+Class-Path: acm.jar hang.jar
+
